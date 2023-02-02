@@ -24,6 +24,7 @@ If the `DataImport_final.ipynb.ipynb` downloading malfunctions for some reason, 
 ## Structure
 
 The PCS_Financial_Market_ABM folder contains all the code of the analysis.
+
     .
     ├── requirements.txt
     ├── README.md
@@ -33,8 +34,8 @@ The PCS_Financial_Market_ABM folder contains all the code of the analysis.
     ├── cumulative_distribution.png    # Constructed after running `reproducible_figure.ipynb`
     ├── used_ticker_list.txt           # Constructed after running `DataImport_final.ipynb`
     └── data                           # Constructed after running `DataImport_final.ipynb`
-
-    Also, various dataframes are saved as .csv's in both the data and main folders as the running of main_final.ipynb & DataImport_final.ipynb proceeds
+    
+Also, various dataframes are saved as .csv's in both the data and main folders as the running of main_final.ipynb & DataImport_final.ipynb proceeds
         
 
 ## Project summary
