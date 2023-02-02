@@ -16,7 +16,7 @@ Professor Gábor Závodszky
 
 1. Clone the repository.
 2. Install the requirements: `pip install -r requirements.txt`.
-3. Download & clean the data by running `DataImport_final.ipynb.ipynb` in the `PCS_Financial_Market_ABM` folder as working directory. It will create a new folder called 'data' in the working directory.
+3. Download & clean the data by running `DataImport_final.ipynb` in the `PCS_Financial_Market_ABM` folder as working directory. It will create a new folder called 'data' in the working directory.
 4. Run main_final.ipynb (or if reviewing, reproducible_figure.ipynb)
 
 
@@ -36,7 +36,7 @@ The PCS_Financial_Market_ABM folder contains all the code of the analysis.
     ├── used_ticker_list.txt           # Constructed after running `DataImport_final.ipynb`
     └── data                           # Constructed after running `DataImport_final.ipynb`
     
-Also, various dataframes are saved as .csv's in both the data and main folders as the running of main_final.ipynb & DataImport_final.ipynb proceeds
+Also, various dataframes are saved as .csv in both the data and main folders as the running of main_final.ipynb & DataImport_final.ipynb proceeds
         
 
 ## Project summary
