@@ -65,7 +65,7 @@ In this project, Feng et al's (2012) paper ABM and stochastic model are implemen
 > This file is a record of the DOW jones stocks used
 
 * `reproducible_figure.ipynb`
-> When ran, runs a simulation of each of the ABM, stochastic and stochastic with horizons model and outputs a simple reproducable figure called 'cumulative_distribution.png' showing a proof of concept of the model. One can also run the all main project files in the fashion described in the readme, but this version is skimmed down and saves bloat on the PC of the reviewer.
+> When ran, runs a simulation of each of the ABM, stochastic and stochastic with horizons model and outputs a simple reproducable figure called 'cumulative_distribution.png' showing a proof of concept of the model. One can also run the all main project files in the fashion described in the readme to do the code review, but this version is skimmed down.
 
 * `cumulative_distribution.png`
 > The plot that should be aproximately reproduced for the codereview. 
