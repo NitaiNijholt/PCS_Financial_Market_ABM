@@ -32,6 +32,7 @@ The PCS_Financial_Market_ABM folder contains all the code of the analysis.
     ├── main_final.ipynb 
     ├── DataImport_final.ipynb
     ├── reproducible_figure.ipynb
+    ├── return_fits.png                # Constructed after running `main_final.ipynb`
     ├── cumulative_distribution.png    # Constructed after running `reproducible_figure.ipynb`
     ├── used_ticker_list_dow.txt       # Constructed after running `DataImport_final.ipynb`
     ├── used_ticker_list.txt           # Constructed after running `DataImport_final.ipynb`
@@ -65,7 +66,7 @@ In this project, Feng et al's (2012) paper ABM and stochastic model are implemen
 > This file is a record of the DOW jones stocks used
 
 * `reproducible_figure.ipynb`
-> When ran, runs a simulation of each of the ABM, stochastic and stochastic with horizons model and outputs a simple reproducable figure called 'cumulative_distribution.png' showing a proof of concept of the model. One can also run the all main project files in the fashion described in the readme to do the code review, but this version is skimmed down.
+> When ran, runs a simulation of each of the ABM, stochastic and stochastic with horizons model and outputs a simple reproducable figure called 'cumulative_distribution.png' showing a proof of concept of the model. For reproduction of the a figure on the poster, can also run the all main project files in the fashion described in the readme and view 'return_fits.png'
 
 * `cumulative_distribution.png`
 > The plot that should be aproximately reproduced for the codereview. 
