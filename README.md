@@ -12,11 +12,12 @@ Nitai Nijholt - 12709018
 Teacher: 
 Professor Gábor Závodszky
 
-## Installation
+## Installation & Run
 
 1. Clone the repository.
 2. Install the requirements: `pip install -r requirements.txt`.
 3. Download & clean the data by running `DataImport_final.ipynb.ipynb` in the `PCS_Financial_Market_ABM` folder as working directory. It will create a new folder called 'data' in the working directory.
+4. Run main_final.ipynb (or if reviewing, reproducible_figure.ipynb)
 
 
 If the `DataImport_final.ipynb.ipynb` downloading malfunctions for some reason, the data can be downloaded and extracted to this folder from the drive directly: https://drive.google.com/u/0/uc?id=1iuXLv3NpBLvxNpJwsYmLk4IX2TyjGtvP. In that event, please be sure to still run the data importer as it also cleans the data for use by the `main_final.ipynb'
