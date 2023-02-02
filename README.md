@@ -5,9 +5,9 @@ Repo for Project Computational Science 2023
 Linking agent-based models and stochastic models of financial markets - a reproduction of Feng et. al's 2012 paper by the same title
 
 Team 5: 
-Yonas Makoni - 14719576
-Calvin Law - 11306734
-Nitai Nijholt - 12709018
+Yonas Makoni - 14719576,
+Calvin Law - 11306734,
+Nitai Nijholt - 12709018,
 
 Teacher: 
 Professor Gábor Závodszky
