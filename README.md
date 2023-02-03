@@ -20,7 +20,7 @@ Professor Gábor Závodszky
 4. Run `main_final.ipynb` (or if code reviewing, `reproducible_figure.ipynb`)
 
 
-If the `DataImport_final.ipynb.ipynb` downloading malfunctions for some reason, the data can be downloaded and extracted to this folder from the drive directly: https://drive.google.com/u/0/uc?id=1iuXLv3NpBLvxNpJwsYmLk4IX2TyjGtvP. In that event, please be sure to still run the data importer as it also cleans the data for use by the `main_final.ipynb`
+If the `DataImport_final.ipynb` downloading malfunctions for some reason, the data can be downloaded and extracted to this folder from the drive directly: https://drive.google.com/u/0/uc?id=1iuXLv3NpBLvxNpJwsYmLk4IX2TyjGtvP. In that event, please be sure to still run the data importer as it also cleans the data for use by the `main_final.ipynb`
 
 ## Structure
 
